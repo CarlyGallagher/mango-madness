@@ -1,0 +1,28 @@
+h1 {
+    text-align: center;
+}
+
+#header {
+    background-image: linear-gradient(to bottom right, rgb(133, 14, 14), rgb(235, 156, 156));
+    background-repeat: no-repeat;
+    color: white;
+}
+
+#card-section {
+    padding-top: 3%;
+
+}
+
+#card {
+    border-color:rgb(145, 53, 53);
+    border-radius: 5px;
+    box-shadow: 5px 5px rgb(144, 103, 102);
+    border-width: 2px;
+    margin: 3%;
+    width: 35%;
+}
+
+.card-header {
+    background-color: rgb(175, 61, 61);
+    color: white;
+}
