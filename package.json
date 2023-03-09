@@ -1,0 +1,26 @@
+{
+  "name": "mango-madness",
+  "version": "1.0.0",
+  "description": "​ ## Description ​As a USER I would like a README.md generator  So That I can quickly make a professional README.md through the command line using NODE.JS",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlyGallagher/mango-madness.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlyGallagher/mango-madness/issues"
+  },
+  "homepage": "https://github.com/CarlyGallagher/mango-madness#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
+}
