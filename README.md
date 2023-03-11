@@ -20,7 +20,7 @@ So That I can quickly make a roster with necessary information
 ## Links
 - Deployed Webpage: N/A
 - GitHub Repo Page: https://github.com/CarlyGallagher/mango-madness.git
-- Castify Video Demo: TODO
+- Castify Video Demo: https://drive.google.com/file/d/1Xy4RDe8-y928J7Shlmy8_atWwFUJpmlj/view
 ​
 ## Credits
 ​
