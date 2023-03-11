@@ -1,30 +1,31 @@
 # mango-madness
 ​
 ## Description
-​As a USER I would like a README.md generator 
-So That I can quickly make a professional README.md through the command line using NODE.JS
+​As a USER I would like an application that generates a developer teams information
+So That I can quickly make a roster with necessary information
 
 ## Tasks
 ​
-- Generator must use the command line and present me with questions that are necessary for a professional README.
-- when hitting enter aftering answering a question it will populate the next question for my README
-- When finished with the prompts a message will send telling me I was succesful in creating the README.
-- When finishing the prompts a new file is created to hold the information.
+- Generator must use the command line and present me with questions that are necessary for building my team
+- When testing code, all test should be passing
+- When finished with one staff member I am prompted to add a new member or create the html
+- When finished with the prompts an html is generated with my new teams infromation
 
 ​
 ## Usage
 
-​![Alt text](utils/assets/terminalPrompts.png)
+​![CLI photo](./assets/command-line-promt.png)
+![test pass photo](./assets/test-passing.png)
 
 ## Links
 - Deployed Webpage: N/A
-- GitHub Repo Page: https://github.com/CarlyGallagher/blue-pickled-ginger.git
-- Castify Video Demo: https://drive.google.com/file/d/1CRk_2KKUcTv_PiUDYbIiSirFC04UJP5E/view
+- GitHub Repo Page: https://github.com/CarlyGallagher/mango-madness.git
+- Castify Video Demo: TODO
 ​
 ## Credits
 ​
-- https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide/
-- https://opensource.org/
+- https://jestjs.io/docs/api
+- https://jestjs.io/docs/getting-started
 ​
 ## License
 ​
